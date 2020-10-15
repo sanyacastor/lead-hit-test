@@ -1,24 +1,11 @@
-# lead-hit
+# Тестовое задание для компании LeadHit
 
-## Project setup
+### Перед началом работы необходимо создать .env и доабвить в него переменные окружения
 ```
-npm install
+VUE_APP_TRACK_API_KEY=api-key
 ```
 
-### Compiles and hot-reloads for development
+### Для запуска проекта в режиме разработки
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
